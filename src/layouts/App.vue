@@ -1,33 +1,57 @@
 <!-- eslint-disable prettier/prettier -->
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view />
+    <NavBar />
+    
+    <main>
+        <div class="container">
+            <router-view />
+        </div>
+    </main>
   </div>
 </template>
 <!-- eslint-disable prettier/prettier -->
+<script>
+import NavBar from '@/components/Navbar/Navbar.vue'
+
+export default {
+  components: {
+    NavBar,
+  }
+}
+</script>
+<!-- eslint-disable prettier/prettier -->
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+    #app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    padding: 0;
+    }
 
-nav {
-  padding: 30px;
-}
+    main {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
+    .container {
+        text-align: left;
+        width: 1170px;
+    }
 
-nav a.router-link-exact-active {
-  color: #42b983;
-}
+    nav {
+    padding: 30px;
+    }
+
+    nav a {
+    font-weight: bold;
+    color: #2c3e50;
+    }
+
+    nav a.router-link-exact-active {
+    color: #42b983;
+    }
 </style>

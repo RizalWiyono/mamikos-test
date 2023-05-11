@@ -1,0 +1,12 @@
+[  
+    {    "photo": "https://images.unsplash.com/photo-1544465544-1b71aee9dfa3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHBob3RvfGVufDB8fDB8fA%3D%3D&w=1000&q=80",    "name": "John Doe",    "age": 25,    "job": "Software Engineer"  },  
+    {    "photo": "https://play-lh.googleusercontent.com/UjaAdTYsArv7zAJbqGWjQw2ftuOtnAlvokffC3TQQ2K12mwk0YdXUF2wZBTBA2kDZIk",    "name": "Jane Smith",    "age": 32,    "job": "Marketing Manager"  },  
+    {    "photo": "https://media.istockphoto.com/id/1223243633/photo/im-just-minding-my-own-business.jpg?s=612x612&w=0&k=20&c=jZdM0D0PY209QTrKoa7IQ5RxhblJotYsQIazZNiskQ8=",    "name": "David Lee",    "age": 28,    "job": "Graphic Designer"  },  
+    {    "photo": "https://photo.wondershare.com/images/en/blog/app-to-take-out-photo-background-2.jpg",    "name": "Sarah Johnson",    "age": 30,    "job": "Accountant"  },  
+    {    "photo": "https://images.unsplash.com/photo-1554080353-a576cf803bda?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80",    "name": "Michael Brown",    "age": 27,    "job": "Sales Executive"  },  
+    {    "photo": "https://thumbs.dreamstime.com/b/handsome-black-man-drinking-cup-coffee-smiling-happy-positive-thumb-up-doing-excellent-approval-sign-handsome-black-218321844.jpg",    "name": "Jennifer Lee",    "age": 29,    "job": "HR Manager"  },  
+    {    "photo": "https://thumbs.dreamstime.com/b/portrait-young-reluctant-displeased-man-having-hesitating-unwilling-to-go-somewhere-dont-have-any-interest-grimacing-177422939.jpg",    "name": "William Chen",    "age": 26,    "job": "Business Analyst"  },  
+    {    "photo": "https://thumbs.dreamstime.com/b/silly-clueless-thoughtful-adult-man-cannot-made-up-accuse-why-late-dinner-scratching-head-doubtful-look-hesitant-search-silly-225272073.jpg",    "name": "Emily Kim",    "age": 31,    "job": "Product Manager"  },  
+    {    "photo": "https://media.istockphoto.com/id/1405695998/photo/woman-showing-exit-demanding-to-leave-her-alone-has-resentful-irritated-expression.jpg?b=1&s=170667a&w=0&k=20&c=ragfq7Kb96_PTUnLOJRCg_omftbdAe-5kFGQxWnid04=",    "name": "Alex Rodriguez",    "age": 33,    "job": "Project Manager"  },  
+    {    "photo": "https://us.123rf.com/450wm/benzoix/benzoix2103/benzoix210300519/165353291-yes-we-did-it-pleased-excited-woman-in-hoodie-raising-fist-in-celebration-and-success-gesture.jpg?ver=6",    "name": "Grace Wong",    "age": 24,    "job": "Customer Service Representative"  }
+]
